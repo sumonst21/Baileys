@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "@hapi/boom": "^9.1.3",
-    "axios": "^0.24.0",
+    "axios": "^0.30.0",
     "futoin-hkdf": "^1.5.0",
     "libsignal": "git+https://github.com/adiwajshing/libsignal-node",
     "music-metadata": "^7.12.3",
@@ -50,7 +50,7 @@
     "jimp": "^0.16.1",
     "link-preview-js": "^2.1.13",
     "qrcode-terminal": "^0.12.0",
-    "sharp": "^0.30.5"
+    "sharp": "^0.32.6"
   },
   "peerDependenciesMeta": {
     "@adiwajshing/keyed-db": {
@@ -87,7 +87,7 @@
     "jimp": "^0.16.1",
     "link-preview-js": "^2.1.13",
     "qrcode-terminal": "^0.12.0",
-    "sharp": "^0.30.5",
+    "sharp": "^0.32.6",
     "ts-jest": "^27.0.3",
     "ts-node": "^10.8.1",
     "typedoc": "^0.22.0",
